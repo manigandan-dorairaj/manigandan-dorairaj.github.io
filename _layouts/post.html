@@ -28,6 +28,10 @@ layout: page
 
 </p>
 
+{%- if page.splash_img_source != empty -%}
+  {% include elements/figure.html image=page.splash_img_source caption=splash_img_caption %}
+{%- endif -%}
+
 {{ content }}
 
 {% if page.comments %}
