@@ -107,4 +107,4 @@ blog:
   single: true                                         # Set to true to get a single column style blog
 
 ### Version for force refreshing css and js files
-version: 1.1
+version: 1.2
