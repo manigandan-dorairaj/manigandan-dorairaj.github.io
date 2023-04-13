@@ -90,7 +90,7 @@
     vertical-align: middle;
   }
 
-  table:not(.highlight) {
+  table:not(.highlight,.tblrowgrid) {
     display: block;
     overflow-x: auto;
     margin: 1rem 0;

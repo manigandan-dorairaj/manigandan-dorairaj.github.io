@@ -17,7 +17,7 @@ Analysis, Development, Testing, Implementation, and Production Support. Diversif
 
 <div>
 <h2>Skills</h2>
-<table>
+<table class="tblrowgrid">
     <tr>
         <td>Web</td>
         <td>JavaScript, TypeScript, VueJS, Angular, ReactJS, jQuery, NodeJS, PWA, SPA, RestAPI, ASP.NET Core,
@@ -52,7 +52,6 @@ ASP.NET, CSS, Bootstrap, Jekyll</td>
         <td> Microservices, Layered,SOA, Clean Architecture, MVC, Client-Server, SOLID, CQRS,
 Repository pattern</td>
     </tr>
-   
     <tr>
         <td>Modeling Tools</td>
         <td>Visio, Draw.io, C4 model, UML</td>

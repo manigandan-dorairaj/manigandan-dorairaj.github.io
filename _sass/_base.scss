@@ -25,3 +25,10 @@ body {
     color: $text-white !important;
   }
 }
+
+.tblrowgrid tr {
+	border-bottom: solid 1px #c8c4c4;
+  margin-top: 10px ;
+  margin-bottom: 10px ;
+}
+
