@@ -28,7 +28,10 @@ body {
 
 .tblrowgrid tr {
 	border-bottom: solid 1px #c8c4c4;
-  margin-top: 10px ;
-  margin-bottom: 10px ;
+  line-height: 2em;
 }
 
+.tblrowgrid tr td:first-child{
+	font-weight: bold;
+  width:250px;
+}
