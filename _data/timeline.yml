@@ -1,17 +1,52 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Lead Digital Architect, Sonata Software Ltd, Bangalore, India
+  from: 2016
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: <ul>
+              <li>Provided architectural oversight to over 6 scrum teams with a total team size of 30 developers and QA engineers.</li>
+              <li>Partnered with Engineering, Operations, Business, and other stakeholders to design, communicate and implement strategies, technology roadmaps, standards, processes, services, infrastructure,
+              and application solutions.</li>
+              <li>Performed discovery, process assessments, ROI, and other cost-benefit analysis to suggest
+              optimal technology stack and digital transformation path.</li>
+              <li>Designed and migrated legacy and on-prem applications resulting in modernization, better user
+              experience, high-scalability, high-reliability, data analytics, and comprehensive reporting.</li>
+              <li>Own, source, and manage solution architecture outcomes, develop documentation and obtain
+              approval from key stakeholders.</li>
+              <li>Automated several business processes like Invoice processing and account reconciliation resulting
+              in cost savings and efficiency.</li>
+              <li>Designed and implemented non-functional requirements (NFRs) along with functional
+              requirements to fulfill clients current and future business goals. </li>
+              <li>Setup best practices, coding standards, and design principles; provided review feedback of code
+              implementation according to the standards. </li>
+              <li>Implemented branching and merging strategies in Git. </li>
+              <li>Implemented static code analysis tools like SonarQube in CI/CD to check and address code issues
+              and handle technical debt.</li>
+              </ul>
+- title: Technical Lead / Sofware Engineer, Sonata Software Ltd, Bangalore, India
+  from: 2004
+  to: present
+  description: <ul>
+              <li>Collaborated with clients, business analysts, project managers, product owners, and developers to
+              define project requirements and specifications.</li>
+              <li>Lead the transformation of monolith applications to microservices architecture.</li>
+              <li>Designed Clean Architecture model for migrating a legacy system while reusing most of core
+              components and thus helping in faster completion time.</li>
+              <li>Designed a highly customizable workflow engine to cater various types of workflows across
+              multiple client implementations.</li>
+              <li>Analyzed and optimized slow performance of web applications resulting in 5X faster performance.</li>
+              <li>Designed dynamic web applications that are highly flexible and configurable without requiring code
+              changes.</li>
+              <li>Designed DevOps applications for deployment and configuration of several web applications in
+              AWS using Jenkins.</li>
+              <li>Analyzed and addressed security vulnerabilities of Internet exposed web applications.</li>
+              </ul>
+- title: Developer, ThinkSmart Tech, Hyderabad
+  from: 2001
+  to: 2004
+  description: <ul>
+               <li>Developed, maintained, and enhanced multiple websites using ASP.NET, CSS, and MySQL.</li>
+               <li>Developed client/server applications in Visual Basic 6.0, Oracle7.3, ActiveX.</li>
+               <li>Developed an online test web app for an educational organization.</li>
+               <li>Involved in creating proof of concepts.</li>
+               <li>Converted Visual Basic forms to VB.NET.</li>
+               </ul>
+            
