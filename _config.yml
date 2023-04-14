@@ -26,7 +26,8 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Manigandan Dorairaj
-  image             : https://ucarecdn.com/fbd1d2ae-e872-40e3-8be1-ae8b8b41a58d/-/preview/400x400/
+  image             : https://ucarecdn.com/ee3ce079-374a-4576-9675-a212142ed52c/-/scale_crop/400x400/
+  #image             :  https://ucarecdn.com/c8e33436-3d83-445a-a2ba-f099904af226/-/scale_crop/400x400/
   #behance           : your_username
 # dribbble          : your_username
 #  email             : username@domain.com
