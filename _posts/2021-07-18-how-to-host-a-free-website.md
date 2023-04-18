@@ -49,3 +49,5 @@ In order to create and publish your site, a configuration is needed. Go to the r
 All set! Now the website will be ready to view from browser.
 
 ![Browse website](https://ucarecdn.com/bb0aff05-cfb5-4d79-8688-4669d6779663/)
+
+In the [next post](how-to-create-free-website-jekyll), we will see how to use Jekyll to build websites.

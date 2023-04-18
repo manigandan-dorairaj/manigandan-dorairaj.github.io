@@ -1,7 +1,8 @@
 ### Site Settings ###
 title               : Manigandan Dorairaj
 description         : >-
-                      Software Engineer. Solutions Architect.
+                      Hi, there! I am Mani! 
+                      
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : manigandan-dorairaj/manigandan-dorairaj.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : #YoussefRaafatNasry/portfolYOU  #Commenting remote theme and hosting it locally

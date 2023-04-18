@@ -10,7 +10,7 @@ splash_img_caption: Jekyll
 description: Jekyll is a static site generator that allows you to create a website by converting your plain text files into static HTML pages. You can use Jekyll to build a website by creating a new Jekyll site, customizing it with themes and plugins, adding your content, and publishing it to your preferred hosting platform.
 ---
 
-In the previous post, we learned how to create a basic site using GitHub Pages. In this post, we will look at using Jekyll to create a website.
+In the [previous post](how-to-host-a-free-website), we learned how to create a basic site using GitHub Pages. In this post, we will look at using Jekyll to create a website.
 
 
 #### Jekyll
